@@ -1,0 +1,264 @@
+[00:00:00.000 --> 00:00:06.440]   I can't believe it.
+[00:00:06.440 --> 00:00:07.940]   It's here.
+[00:00:07.940 --> 00:00:08.940]   It's time.
+[00:00:08.940 --> 00:00:10.720]   Hey, what's up guys?
+[00:00:10.720 --> 00:00:11.720]   My name is Ochino.
+[00:00:11.720 --> 00:00:17.240]   Welcome to this announcement video because we are about to begin the game engine series.
+[00:00:17.240 --> 00:00:18.840]   Yes, you heard me right.
+[00:00:18.840 --> 00:00:21.720]   I can't believe how long it's been.
+[00:00:21.720 --> 00:00:25.560]   I'm so excited to say this but that's it.
+[00:00:25.560 --> 00:00:32.360]   The game engine series is ready and it's about to start coming out starting next week.
+[00:00:32.360 --> 00:00:33.360]   That's it.
+[00:00:33.360 --> 00:00:34.360]   I'll see you guys next time.
+[00:00:34.360 --> 00:00:35.360]   No, I'm kidding.
+[00:00:35.360 --> 00:00:37.440]   But seriously, it's like, I don't know.
+[00:00:37.440 --> 00:00:42.280]   I've been planning this for like the last two years probably and I've got this massive
+[00:00:42.280 --> 00:00:43.280]   plan.
+[00:00:43.280 --> 00:00:45.000]   Everything's ready to go.
+[00:00:45.000 --> 00:00:48.080]   I've just, I can't wait to get started on this.
+[00:00:48.080 --> 00:00:50.800]   It's going to be a huge thing for the whole community.
+[00:00:50.800 --> 00:00:52.600]   It's not going to be just me kind of working on this.
+[00:00:52.600 --> 00:00:54.040]   It's going to be everyone.
+[00:00:54.040 --> 00:00:56.840]   It's going to be really in depth, really detailed.
+[00:00:56.840 --> 00:01:00.680]   There's going to be heaps of just stuff that's going to go into all of the videos.
+[00:01:00.680 --> 00:01:04.800]   It's just, we're going to build something really, really amazing together and I'm so
+[00:01:04.800 --> 00:01:07.720]   excited and I just can't wait to actually start this thing.
+[00:01:07.720 --> 00:01:10.760]   So I'm just so happy right now.
+[00:01:10.760 --> 00:01:14.600]   I can't even like, I don't know what else to say.
+[00:01:14.600 --> 00:01:17.320]   In this video, we're just going to go over a little bit about what on earth the game
+[00:01:17.320 --> 00:01:21.160]   engine series is for those of you who are known, for those of you who might be new to
+[00:01:21.160 --> 00:01:26.680]   my channel, but that's kind of my only plan really for this series and obviously just
+[00:01:26.680 --> 00:01:27.680]   to say that that's it.
+[00:01:27.680 --> 00:01:30.960]   Like it's coming, it's ready, it's going to go up like anytime.
+[00:01:30.960 --> 00:01:34.400]   It's just like, oh, I just can't wait.
+[00:01:34.400 --> 00:01:40.160]   So those of you kind of new to my channel, you might have noticed that I kind of am,
+[00:01:40.160 --> 00:01:43.720]   like this channel is kind of like a programming channel, but it's not just limited to like
+[00:01:43.720 --> 00:01:47.080]   programming or game programming or anything like that.
+[00:01:47.080 --> 00:01:53.200]   Actually it's really just a channel that revolves around me and my interests because I love
+[00:01:53.200 --> 00:01:57.160]   teaching and I love sharing everything that I learn with everyone.
+[00:01:57.160 --> 00:02:01.200]   That's always been a passion of mine and it doesn't make any sense for me to like teach
+[00:02:01.200 --> 00:02:05.240]   things that I'm not interested in or things that I'm not currently doing with my life.
+[00:02:05.240 --> 00:02:10.360]   I'm at the moment and for the last almost four years now, I've been a game engine developer
+[00:02:10.360 --> 00:02:15.280]   at EA, currently working in the Frostbite organization on the mobile engine.
+[00:02:15.280 --> 00:02:16.280]   So that's my life.
+[00:02:16.280 --> 00:02:17.440]   That's what I do, right?
+[00:02:17.440 --> 00:02:23.200]   So I love sharing that with everyone and to be honest, like just teaching has just always
+[00:02:23.200 --> 00:02:25.440]   been a huge passion of mine.
+[00:02:25.440 --> 00:02:32.200]   So what this channel really is, is just me kind of talking about my passions, talking
+[00:02:32.200 --> 00:02:35.760]   about stuff that interests me, whether that be kind of in vlogs or tutorial videos and
+[00:02:35.760 --> 00:02:39.480]   teaching you guys kind of the same thing that I've learned or just new things that I've
+[00:02:39.480 --> 00:02:44.080]   picked up or things that I'm realizing because I feel that programming and like, you know,
+[00:02:44.080 --> 00:02:47.560]   game engine development or game development is like in general has just been like such
+[00:02:47.560 --> 00:02:53.320]   a, like it's just been, it's been over complicated so, so, so much.
+[00:02:53.320 --> 00:02:58.760]   And I feel like with the way that I teach, like in a lot of cases, because I do private
+[00:02:58.760 --> 00:03:03.880]   like sessions as well, very limited, like seriously, because like I'm so busy, but I
+[00:03:03.880 --> 00:03:09.280]   do have like five or so students who I do teach privately one on one.
+[00:03:09.280 --> 00:03:13.240]   Just the way that everything clicks for them when I explain something, because I try and
+[00:03:13.240 --> 00:03:16.200]   kind of simplify it and just be like, well, actually, you know, if you think about it,
+[00:03:16.200 --> 00:03:18.360]   you know, it's not actually that difficult.
+[00:03:18.360 --> 00:03:19.760]   Like I just love doing that so much.
+[00:03:19.760 --> 00:03:23.160]   And that's kind of a reflection of what my channel, I guess is about.
+[00:03:23.160 --> 00:03:26.840]   It's about kind of me teaching my passions and what the stuff that I'm interested in,
+[00:03:26.840 --> 00:03:30.880]   in a bit of a, like in a simple way and kind of hope, hopefully in that case, helping a
+[00:03:30.880 --> 00:03:33.960]   lot of you people out because that's what I love to do.
+[00:03:33.960 --> 00:03:39.240]   Now what I want to say is that my passions don't lie in game programming at all.
+[00:03:39.240 --> 00:03:40.680]   Like I don't like games.
+[00:03:40.680 --> 00:03:42.120]   I'll say that.
+[00:03:42.120 --> 00:03:43.120]   Like it's as simple as that.
+[00:03:43.120 --> 00:03:45.080]   I don't, I don't play games in my spare time.
+[00:03:45.080 --> 00:03:48.160]   I did kind of when I was younger, when I was like a kid, I guess.
+[00:03:48.160 --> 00:03:51.840]   But like basically as soon as I become, since I became an adult, apart from the occasional
+[00:03:51.840 --> 00:03:56.520]   like, you know, a game of something multiplayer with friends, like I don't, don't play games
+[00:03:56.520 --> 00:03:57.840]   in my spare time at all.
+[00:03:57.840 --> 00:03:59.080]   I'm just not interested in that.
+[00:03:59.080 --> 00:04:02.640]   I'm not saying that like I'm against that or like games are evil or games are bad.
+[00:04:02.640 --> 00:04:03.800]   Like it's a waste of time.
+[00:04:03.800 --> 00:04:05.600]   Just for me personally, I get bored.
+[00:04:05.600 --> 00:04:09.320]   Like it's just not, I don't, it's not something I enjoy doing really.
+[00:04:09.320 --> 00:04:14.480]   So of course making games is also something that I don't necessarily enjoy doing.
+[00:04:14.480 --> 00:04:20.600]   What I am really interested in and what I do enjoy a lot is making game engines.
+[00:04:20.600 --> 00:04:25.200]   And I actually made a video of Log in Germany recently, which I will link up there, which
+[00:04:25.200 --> 00:04:29.360]   is about, you know, games versus engines and kind of deciding what it is that you want
+[00:04:29.360 --> 00:04:31.360]   to make and kind of just talking about the differences.
+[00:04:31.360 --> 00:04:32.920]   It's so bright out here.
+[00:04:32.920 --> 00:04:35.760]   And just talking about the differences kind of between, you know, what it's like to make
+[00:04:35.760 --> 00:04:38.240]   a game versus what it's like to make an engine and all of that.
+[00:04:38.240 --> 00:04:42.160]   So check out that video if you want kind of to meet me to expand a little bit more about
+[00:04:42.160 --> 00:04:45.040]   what I'm talking about here, because that's not what this video is about.
+[00:04:45.040 --> 00:04:48.600]   But the point is like, I don't really like games.
+[00:04:48.600 --> 00:04:51.120]   I really like making games, but what I do love doing is making engines.
+[00:04:51.120 --> 00:04:53.400]   And I guess this is kind of what this channel is about.
+[00:04:53.400 --> 00:04:56.640]   And like, you know, the C++ and the OpenGL stuff that I've been teaching over the last
+[00:04:56.640 --> 00:05:02.400]   almost two years now has kind of been specifically geared towards, right, let's take all that
+[00:05:02.400 --> 00:05:04.760]   and let's actually build an engine now.
+[00:05:04.760 --> 00:05:09.000]   And again, like I am going to, I am titling this the game engine series, right?
+[00:05:09.000 --> 00:05:12.600]   But it's not really necessarily going to be a game engine.
+[00:05:12.600 --> 00:05:16.140]   I mean, if you think about what a game engine is and what specifically I want to be building
+[00:05:16.140 --> 00:05:20.200]   is it's just really like kind of a 3D real time rendering application.
+[00:05:20.200 --> 00:05:21.200]   That's what it is, right?
+[00:05:21.200 --> 00:05:25.600]   It's a way, it's an engine to make a 3D real time rendering application, right?
+[00:05:25.600 --> 00:05:29.220]   What I want to be able to do and an interactive one at that as well, what I want to be able
+[00:05:29.220 --> 00:05:35.680]   to do is make kind of this framework, this engine so that people can construct real time
+[00:05:35.680 --> 00:05:38.560]   interactive 3D applications.
+[00:05:38.560 --> 00:05:39.800]   That is the idea, right?
+[00:05:39.800 --> 00:05:42.480]   With 3D graphics, that's the idea.
+[00:05:42.480 --> 00:05:44.280]   So of course you could apply that to games.
+[00:05:44.280 --> 00:05:45.280]   Absolutely.
+[00:05:45.280 --> 00:05:46.600]   I mean, a lot of people will.
+[00:05:46.600 --> 00:05:51.220]   It's going to be very well optimized for kind of, you know, big scenes and lots of entities
+[00:05:51.220 --> 00:05:52.220]   and all that kind of stuff.
+[00:05:52.220 --> 00:05:56.480]   And I'll probably throw in, you know, scripting and all of that kind of gameplay related code
+[00:05:56.480 --> 00:06:00.760]   because that's not necessarily applicable to just games either, right?
+[00:06:00.760 --> 00:06:05.280]   What we're going to be building is this engine that's capable of so much more than just making
+[00:06:05.280 --> 00:06:06.280]   games.
+[00:06:06.280 --> 00:06:08.760]   It's just capable of rendering interactive 3D graphics.
+[00:06:08.760 --> 00:06:10.760]   Like that's really cool.
+[00:06:10.760 --> 00:06:13.640]   So I can't wait to kind of build that with everyone.
+[00:06:13.640 --> 00:06:15.760]   I'll talk a little bit about what it's going to include.
+[00:06:15.760 --> 00:06:19.840]   I'm not, like we'll have an overview video where we discuss kind of the stages of this
+[00:06:19.840 --> 00:06:20.840]   whole project.
+[00:06:20.840 --> 00:06:25.480]   And I'll probably like write kind of on a whiteboard, not really on a whiteboard, like
+[00:06:25.480 --> 00:06:27.960]   a tablet so that you guys can see.
+[00:06:27.960 --> 00:06:29.880]   And we'll kind of go through everything step by step.
+[00:06:29.880 --> 00:06:32.800]   I don't want to really do that now, just off the top of my head because I'm sure I'll miss
+[00:06:32.800 --> 00:06:35.120]   things and I don't want to pull up notes now.
+[00:06:35.120 --> 00:06:38.360]   We want to kind of sit down in the studio in the office, if you will, and actually go
+[00:06:38.360 --> 00:06:40.240]   through that.
+[00:06:40.240 --> 00:06:45.680]   But that being said, you know, we are going to kind of break down the project and go through
+[00:06:45.680 --> 00:06:46.980]   everything step by step.
+[00:06:46.980 --> 00:06:49.520]   But the idea is like we're going to kind of build this thing together.
+[00:06:49.520 --> 00:06:55.200]   Now over me planning this series, and one of the reasons why it took so long was because
+[00:06:55.200 --> 00:06:59.280]   it's just such a massively complicated task.
+[00:06:59.280 --> 00:07:04.860]   Building an engine like this takes years for a whole team of people, right?
+[00:07:04.860 --> 00:07:08.760]   Now I'm fortunate in the fact that I kind of more or less know what I'm doing because
+[00:07:08.760 --> 00:07:13.880]   I do have so many years of experience of actually making kind of a game engine and being in
+[00:07:13.880 --> 00:07:14.880]   a game engine team.
+[00:07:14.880 --> 00:07:17.120]   So I do know how to make a game engine.
+[00:07:17.120 --> 00:07:21.800]   I've never really sat down and made a full kind of engine from scratch where I would
+[00:07:21.800 --> 00:07:26.080]   consider it to the point of like, that's it, we can ship applications with this engine now
+[00:07:26.080 --> 00:07:27.880]   because it has every, it's fully featured, right?
+[00:07:27.880 --> 00:07:29.120]   I've never actually done that in my life.
+[00:07:29.120 --> 00:07:32.240]   I know how everything works and I've done it all separately in different modules, but
+[00:07:32.240 --> 00:07:38.000]   to combine it all into one huge project, not something that I've really done, right?
+[00:07:38.000 --> 00:07:40.400]   And that's something that I've just been wanting to do.
+[00:07:40.400 --> 00:07:43.880]   So this isn't even just necessarily me being like, all right, let's make a series on how
+[00:07:43.880 --> 00:07:44.880]   to make a game engine.
+[00:07:44.880 --> 00:07:46.000]   This is me being like, that's it.
+[00:07:46.000 --> 00:07:47.160]   I want to make a game engine now.
+[00:07:47.160 --> 00:07:48.400]   I want to make my own engine.
+[00:07:48.400 --> 00:07:51.800]   I want us to make our own engine, right?
+[00:07:51.800 --> 00:07:56.280]   From the ground up, but unlike Sparky, which was another engine that I did make about three
+[00:07:56.280 --> 00:07:59.120]   years ago, three and a half years ago, I think now.
+[00:07:59.120 --> 00:08:00.120]   Right.
+[00:08:00.120 --> 00:08:01.120]   Yeah.
+[00:08:01.120 --> 00:08:04.720]   That, that was kind of more or less, you know, for games specifically.
+[00:08:04.720 --> 00:08:08.520]   And that was very kind of like quickly put together because it was, I made it in like
+[00:08:08.520 --> 00:08:14.400]   the base, the base version of it in like 40 days for, for a game programming competition.
+[00:08:14.400 --> 00:08:19.560]   Like this is going to be like, and because of that, it was kind of me typing code and
+[00:08:19.560 --> 00:08:21.000]   then explaining some things along the way.
+[00:08:21.000 --> 00:08:22.680]   Whereas this is going to be a tutorial.
+[00:08:22.680 --> 00:08:24.320]   Like this is going to take time.
+[00:08:24.320 --> 00:08:25.960]   It's going to be like slow.
+[00:08:25.960 --> 00:08:29.600]   It's going to be, it's going to feature me like writing stuff, drawing diagrams for you
+[00:08:29.600 --> 00:08:31.520]   guys, notes, all of that kind of stuff.
+[00:08:31.520 --> 00:08:33.120]   It's going to be like a full course almost.
+[00:08:33.120 --> 00:08:34.120]   Right.
+[00:08:34.120 --> 00:08:37.520]   It's not going to be just something that I just, you know, whip up and kind of improvise
+[00:08:37.520 --> 00:08:38.520]   on.
+[00:08:38.520 --> 00:08:39.520]   It's been planned.
+[00:08:39.520 --> 00:08:41.880]   It's like this whole thing where I'm actually going to explain everything.
+[00:08:41.880 --> 00:08:44.720]   And because of that, these videos are going to be long, not necessarily long, but there's
+[00:08:44.720 --> 00:08:48.640]   going to, it's going to be very detailed and we might not get very far immediately.
+[00:08:48.640 --> 00:08:51.440]   Like it's going to take a lot of time to actually build this up.
+[00:08:51.440 --> 00:08:56.160]   And basically it's almost like, like this engine and I'm sure that obviously, obviously
+[00:08:56.160 --> 00:08:59.920]   in my life, like, oh, probably scrap this eventually, make a new engine as technology
+[00:08:59.920 --> 00:09:00.920]   continues to improve.
+[00:09:00.920 --> 00:09:05.240]   And as I get, get smarter and I learn new things as well, obviously we're all, we're
+[00:09:05.240 --> 00:09:06.680]   all learning new things.
+[00:09:06.680 --> 00:09:07.680]   Right.
+[00:09:07.680 --> 00:09:10.520]   But this is almost like just a, almost like a little life project for me.
+[00:09:10.520 --> 00:09:11.680]   It's just something that I want to do in my life.
+[00:09:11.680 --> 00:09:12.960]   I want to build a game engine.
+[00:09:12.960 --> 00:09:17.300]   You guys are going to watch me and I'm also going to like work on it with you guys.
+[00:09:17.300 --> 00:09:20.560]   And I'm also going to explain everything and teach you what I'm doing, how I'm doing,
+[00:09:20.560 --> 00:09:22.160]   and we're going to decide things together.
+[00:09:22.160 --> 00:09:25.720]   So it's going to be a really exciting project and I absolutely can't wait to get this thing
+[00:09:25.720 --> 00:09:26.720]   started.
+[00:09:26.720 --> 00:09:29.920]   It's been just, I've been wanting to do this my whole life basically, or my whole kind
+[00:09:29.920 --> 00:09:32.400]   of YouTube career life.
+[00:09:32.400 --> 00:09:35.320]   And it's finally happening and I'm so excited.
+[00:09:35.320 --> 00:09:40.200]   Now you guys are going to come in, in the, in the, in the fact that like I am going to
+[00:09:40.200 --> 00:09:41.800]   actively work with you guys.
+[00:09:41.800 --> 00:09:44.360]   This is going to be a public project on GitHub.
+[00:09:44.360 --> 00:09:46.760]   It's going to be completely free, of course.
+[00:09:46.760 --> 00:09:48.560]   It's just going to be like up on GitHub.
+[00:09:48.560 --> 00:09:49.560]   You can look through every commit.
+[00:09:49.560 --> 00:09:50.560]   You can log issues.
+[00:09:50.560 --> 00:09:51.560]   There'll be like issue tracking.
+[00:09:51.560 --> 00:09:54.400]   We'll have like a project because it's like almost like a Trello board that you can have
+[00:09:54.400 --> 00:09:57.320]   on GitHub now, GitHub project or whatever it's called.
+[00:09:57.320 --> 00:10:01.960]   We're going to have that full thing set up like a professional game studio.
+[00:10:01.960 --> 00:10:03.920]   I think people are coming.
+[00:10:03.920 --> 00:10:07.600]   Anyway, professional games, your professional team, and it's going to be so, so, so cool.
+[00:10:07.600 --> 00:10:09.240]   That's going to be completely free.
+[00:10:09.240 --> 00:10:12.640]   So you guys are going to interact with that repository, potentially even get collaborators
+[00:10:12.640 --> 00:10:14.240]   in to help write the code for this.
+[00:10:14.240 --> 00:10:16.320]   Because again, it is going to be such a big thing.
+[00:10:16.320 --> 00:10:20.800]   And because it's such a big project that does kind of require a lot of man hours, a lot
+[00:10:20.800 --> 00:10:24.320]   of work, obviously I'm going to have to cut corners in some places because I can't just
+[00:10:24.320 --> 00:10:29.520]   build like unity or unreal by myself while explaining all of it and documenting it on
+[00:10:29.520 --> 00:10:30.520]   video.
+[00:10:30.520 --> 00:10:32.360]   That's, that's, that's physically impossible.
+[00:10:32.360 --> 00:10:35.120]   And I'm not trying to be realistic and be like, that's what I'm going to do.
+[00:10:35.120 --> 00:10:38.620]   It's not like, for example, with the level editor and game engine tools, that's all going
+[00:10:38.620 --> 00:10:43.900]   to be kind of built into the actual game runtime, like using I'm gooey because it's not something
+[00:10:43.900 --> 00:10:47.320]   that I can just be like, okay, I'm going to make a full Windows application that's going
+[00:10:47.320 --> 00:10:51.120]   to be a level editor with my own UI framework with that's not going to happen.
+[00:10:51.120 --> 00:10:52.620]   It's impossible, right?
+[00:10:52.620 --> 00:10:54.280]   Like this stuff takes so much time.
+[00:10:54.280 --> 00:10:58.160]   So there have been like compromises that I've had to make in order to actually make this
+[00:10:58.160 --> 00:10:59.160]   project realistic.
+[00:10:59.160 --> 00:11:04.280]   And I have thought about a lot of them and yeah, I mean like it's, but it's still going
+[00:11:04.280 --> 00:11:06.200]   to be amazing and I absolutely can't wait.
+[00:11:06.200 --> 00:11:08.000]   And we are going to be writing a lot of things from scratch.
+[00:11:08.000 --> 00:11:12.960]   We'll be using libraries obviously and other kind of third party vendor kind of supplied
+[00:11:12.960 --> 00:11:16.480]   tools and like code frameworks or whatever that's going to happen.
+[00:11:16.480 --> 00:11:19.440]   Hopefully the wind isn't bad.
+[00:11:19.440 --> 00:11:23.880]   But overall, a lot of it is going to be written from scratch from the ground up, which is
+[00:11:23.880 --> 00:11:26.120]   going to be really, really, really exciting.
+[00:11:26.120 --> 00:11:30.420]   Now if you want to support this project because I do need your help, this is going to take
+[00:11:30.420 --> 00:11:31.420]   a lot of my time.
+[00:11:31.420 --> 00:11:32.960]   It already has.
+[00:11:32.960 --> 00:11:37.180]   So if you want to see this project actually kind of come to life and more of these episodes
+[00:11:37.180 --> 00:11:39.400]   to go up, I really do need your support.
+[00:11:39.400 --> 00:11:42.260]   So I do have a Patreon, patreon.com/thechurno.
+[00:11:42.260 --> 00:11:47.240]   You will get rewards for helping to support of course, such as early access to like game
+[00:11:47.240 --> 00:11:48.240]   engine source code.
+[00:11:48.240 --> 00:11:52.060]   The actual project will be on GitHub, will be public, will be free, but you'll get kind
+[00:11:52.060 --> 00:11:54.300]   of code before it actually goes up.
+[00:11:54.300 --> 00:11:58.360]   You'll also get experimental development branches, which is like me already having implemented
+[00:11:58.360 --> 00:12:01.680]   certain features before I make the video about them.
+[00:12:01.680 --> 00:12:03.720]   Like and that could be months before, right?
+[00:12:03.720 --> 00:12:07.120]   So you'll kind of see me write the code as I write the code myself before I make videos
+[00:12:07.120 --> 00:12:08.120]   and all that stuff.
+[00:12:08.120 --> 00:12:11.560]   And you can also hang out with me on like, um, on Discord.
+[00:12:11.560 --> 00:12:15.120]   We have like a video chat once a month where we all have all the kind of partner, which
+[00:12:15.120 --> 00:12:17.080]   is like, there's a tier called partner.
+[00:12:17.080 --> 00:12:20.120]   All of the partners kind of will kind of hang out in a video chat and we talk about stuff
+[00:12:20.120 --> 00:12:23.000]   and we even, we've been talking about the game engine series for the last year.
+[00:12:23.000 --> 00:12:26.640]   So those guys actually know a lot about what I'm, what I'm saying here now, which is pretty
+[00:12:26.640 --> 00:12:29.960]   cool because you know, that kind of like, I think that's 20 or so partners, they know
+[00:12:29.960 --> 00:12:31.360]   like everything, which is really cool.
+[00:12:31.360 --> 00:12:34.240]   And we have like our own partner or in the discord chat and all of that.
+[00:12:34.240 --> 00:12:38.680]   So you do get a handful of rewards, but most of all, you're just allowing me to kind of
+[00:12:38.680 --> 00:12:43.720]   maybe work less and, and kind of spend more of my time developing this game engine series,
+[00:12:43.720 --> 00:12:46.000]   um, because you'll kind of be supporting me financially.
+[00:12:46.000 --> 00:12:48.400]   So that's just such a, such an amazing thing.
+[00:12:48.400 --> 00:12:51.840]   Um, and I'm so grateful for the people who have made it realistic for me to actually
+[00:12:51.840 --> 00:12:53.360]   spend so much of my time on this.
+[00:12:53.360 --> 00:12:57.640]   Um, so definitely jump on that and let's see, let's see how good, how big of a game engine
+[00:12:57.640 --> 00:13:00.320]   we can all build together and how good, how good we can make it.
+[00:13:00.320 --> 00:13:01.600]   Absolutely can't wait.
+[00:13:01.600 --> 00:13:03.200]   I will see you guys next time.
+[00:13:03.200 --> 00:13:05.200]   Oh, I love all of you.
+[00:13:05.200 --> 00:13:06.200]   Goodbye.
