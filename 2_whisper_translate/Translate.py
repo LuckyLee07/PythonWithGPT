@@ -13,6 +13,31 @@ import requests
 GOOGLE_TRANSLATE_URL = 'http://translate.google.com/m?q=%s&tl=%s&sl=%s'
 
 
+'''
+bool output_txt(struct whisper_context * ctx, const char * fname) {
+    std::ofstream fout(fname);
+    if (!fout.is_open()) {
+        fprintf(stderr, "%s: failed to open '%s' for writing\n", __func__, fname);
+        return false;
+    }
+
+    fprintf(stderr, "%s: saving output to '%s'\n", __func__, fname);
+
+    const int n_segments = whisper_full_n_segments(ctx);
+    for (int i = 0; i < n_segments; ++i) {
+        const char * text = whisper_full_get_segment_text(ctx, i);
+        const int64_t t0 = whisper_full_get_segment_t0(ctx, i);
+        const int64_t t1 = whisper_full_get_segment_t1(ctx, i);
+
+        fout << "[" << to_timestamp(t0) << " --> " << to_timestamp(t1) << "]  ";
+        fout << text << "\n";
+    }
+
+    return true;
+}
+'''
+
+
 # 1、使用ffmpeg将视频转换成F16形式的音频
 def mp4_to_wav_ffmpeg(mp4_path, wav_dir):
     dir_, file = os.path.split(mp4_path)
@@ -148,7 +173,8 @@ def video_download_pytube(video_list):
 def main_generate_srt(video_name):
     mp4_path = f'data_mp4/{video_name}.mp4'
     wav_path = f'data_wavs/{video_name}.wav'
-    mp4_to_wav_ffmpeg(mp4_path, 'data_wavs')
+    #mp4_to_wav_ffmpeg(mp4_path, 'data_wavs')
+    
     wav_to_text_whisper(wav_path, 'data_text')
     
     text_path = f'data_text/{video_name}.txt'
@@ -161,7 +187,7 @@ def main_generate_srt(video_name):
     e_srt_path = text_path.replace('.txt', '.srt')
     c_srt_path = text_path1.replace('.txt', '.srt')
     srt_combin_mp4_ffmpeg(mp4_path, e_srt_path, c_srt_path)
-
+    
 
 
 base_path = f'/Users/lizi/Desktop/GithubWorks'
