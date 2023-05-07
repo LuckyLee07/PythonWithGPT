@@ -52,7 +52,7 @@ def mp4_to_wav_ffmpeg(mp4_path, wav_dir):
 # 2、使用编译好的Whisper将音频转换成文字
 def wav_to_text_whisper(wav_path, text_dir):
     #whisper_bin = f'{whisper}/main'
-    cmd = ['./main', '-f', wav_path, '-m', model_bin, '-otxt']
+    cmd = ['./main_2', '-f', wav_path, '-m', model_bin, '-otxt']
     result = subprocess.run(cmd, shell=False)
     print(f"Command2=====>>>: {' '.join(result.args)}")
 
@@ -176,7 +176,7 @@ def main_generate_srt(video_name):
     #mp4_to_wav_ffmpeg(mp4_path, 'data_wavs')
     
     wav_to_text_whisper(wav_path, 'data_text')
-    
+    '''
     text_path = f'data_text/{video_name}.txt'
     text_path1 = f'data_text/{video_name}_cn.txt'
     file_translate_google(text_path)
@@ -187,12 +187,12 @@ def main_generate_srt(video_name):
     e_srt_path = text_path.replace('.txt', '.srt')
     c_srt_path = text_path1.replace('.txt', '.srt')
     srt_combin_mp4_ffmpeg(mp4_path, e_srt_path, c_srt_path)
-    
+    '''
 
 
 base_path = f'/Users/lizi/Desktop/GithubWorks'
-model_bin = f'{base_path}/_models_/ggml-tiny.en.bin'
-model_bin = f'{base_path}/_models_/ggml-small.en.bin'
+model_bin = f'{base_path}/[models]/whisper/ggml-tiny.en.bin'
+model_bin = f'{base_path}/[models]/whisper/ggml-small.en.bin'
 
 video_lists = ['https://www.youtube.com/watch?v=JxIZbV_XjAs']
 
